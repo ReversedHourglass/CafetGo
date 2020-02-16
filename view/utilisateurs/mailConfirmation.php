@@ -1,0 +1,1 @@
+<p><h3>Consulter votre boîte mail puis rendez vous <a href="index.php?controller=utilisateurs&action=login">ici</a></h3></p>

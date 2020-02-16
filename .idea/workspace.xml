@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98342bfa-2390-42e4-b430-3e5770c138a5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/images/Capture du 2019-10-21 15-10-22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Capture du 2019-10-21 15-10-45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/le_chateau_dans_le_ciel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/phoque.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../bin/php/php5.6.40" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1T42Wa8PouLDYtvajoJc7VH5XWH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php5.6.40/php.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\CafetGo\controller" />
+      <recent name="C:\wamp64\www\CafetGo\model" />
+      <recent name="C:\wamp64\www\CafetGo\view\utilisateurs" />
+      <recent name="C:\Users\Tom\Documents\Code\Web\PHP\IUT\CafetGo\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98342bfa-2390-42e4-b430-3e5770c138a5" name="Default Changelist" comment="" />
+      <created>1571217400910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571217400910</updated>
+      <workItem from="1571217402799" duration="22000" />
+      <workItem from="1571217442434" duration="482000" />
+      <workItem from="1572705081353" duration="4104000" />
+      <workItem from="1572711162171" duration="3574000" />
+      <workItem from="1573223406111" duration="2344000" />
+      <workItem from="1573227128272" duration="6388000" />
+      <workItem from="1573244622687" duration="83000" />
+      <workItem from="1573314914815" duration="3000" />
+      <workItem from="1573315329687" duration="1498000" />
+      <workItem from="1573749048060" duration="4159000" />
+      <workItem from="1573846333372" duration="3000" />
+      <workItem from="1573849144093" duration="7498000" />
+      <workItem from="1573915518600" duration="1000" />
+      <workItem from="1574332929675" duration="31000" />
+      <workItem from="1574333106101" duration="884000" />
+      <workItem from="1574517501925" duration="1733000" />
+      <workItem from="1575198729313" duration="19213000" />
+      <workItem from="1575379527858" duration="13604000" />
+      <workItem from="1575475433989" duration="2665000" />
+      <workItem from="1576013812994" duration="889000" />
+      <workItem from="1581850582414" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create Produit">
+      <created>1571217706380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571217706380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Routeur multi controller">
+      <created>1573228461207</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573228461207</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Login and Register views">
+      <created>1573229382834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573229382834</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Page de création de compte">
+      <created>1573230322574</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573230322574</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Captcha integration">
+      <created>1573235352254</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573235352254</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Security.php">
+      <created>1573315990432</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573315990432</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Ajout panier">
+      <created>1573751564892</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573751564892</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Affichage panier">
+      <created>1573752438068</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1573752438068</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Retirer élément du panier">
+      <created>1573752608655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1573752608655</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge">
+      <created>1573858450987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1573858450987</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Confirmation par mail">
+      <created>1574333981619</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1574333981619</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Erreur 404 controller inexistant">
+      <created>1575143995781</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575143995781</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Affichage et mise en place de l'historique">
+      <created>1575211062678</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575211062678</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Affichage de l'historique en fonction de l'utilisateur">
+      <created>1575216075896</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575216075896</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Ajout des ahcats à l'historique">
+      <created>1575225309195</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575225309195</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commandes fonctionnelles avec le Model générique">
+      <created>1575380325450</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575380325450</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Upload des images produit et affichage">
+      <created>1575383188879</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1575383188879</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Need to be admin to create products">
+      <created>1575394526555</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1575394526555</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update produit">
+      <created>1575406890392</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575406890392</updated>
+    </task>
+    <task id="LOCAL-00020" summary="TODO's">
+      <created>1575478269678</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1575478269678</updated>
+    </task>
+    <task id="LOCAL-00021" summary="connecté pour acheter">
+      <created>1575479115721</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1575479115721</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Changement d'informations sur le profil même si nous ne remplissons pas l'ancien mot de passe">
+      <created>1575479352512</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575479352512</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Produit" />
+    <MESSAGE value="Routeur multi controller" />
+    <MESSAGE value="Login and Register views" />
+    <MESSAGE value="Page de création de compte" />
+    <MESSAGE value="Captcha integration" />
+    <MESSAGE value="Security.php" />
+    <MESSAGE value="Ajout panier" />
+    <MESSAGE value="Affichage panier" />
+    <MESSAGE value="Retirer élément du panier" />
+    <MESSAGE value="Merge" />
+    <MESSAGE value="Confirmation par mail" />
+    <MESSAGE value="Erreur 404 controller inexistant" />
+    <MESSAGE value="Affichage et mise en place de l'historique" />
+    <MESSAGE value="Affichage de l'historique en fonction de l'utilisateur" />
+    <MESSAGE value="Ajout des ahcats à l'historique" />
+    <MESSAGE value="Commandes fonctionnelles avec le Model générique" />
+    <MESSAGE value="Upload des images produit et affichage" />
+    <MESSAGE value="Need to be admin to create products" />
+    <MESSAGE value="update produit" />
+    <MESSAGE value="TODO's" />
+    <MESSAGE value="connecté pour acheter" />
+    <MESSAGE value="Changement d'informations sur le profil même si nous ne remplissons pas l'ancien mot de passe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changement d'informations sur le profil même si nous ne remplissons pas l'ancien mot de passe" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
